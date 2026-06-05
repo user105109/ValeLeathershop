@@ -181,7 +181,7 @@ export function Footer({ lang }: FooterProps) {
                 {t.contact}
               </h4>
               <p style={{ fontFamily: "var(--font-body)", fontSize: "0.82rem", opacity: 0.6, fontWeight: 300, lineHeight: 1.8 }}>
-                Via dei Servi 12<br />
+                Piazza di San Lorenzo, 1/R<br />
                 50123 Firenze FI, Italia<br />
                 +39 055 215465<br />
                 valeleathershop@gmail.com
