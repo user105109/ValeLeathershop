@@ -131,7 +131,7 @@ export function Navbar({ lang, onLangToggle }: NavbarProps) {
 
               {/* Instagram */}
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/vale_leathershop/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hidden lg:flex transition-opacity hover:opacity-70"
@@ -143,7 +143,7 @@ export function Navbar({ lang, onLangToggle }: NavbarProps) {
 
               {/* WhatsApp CTA */}
               <a
-                href="https://wa.me/390551234567"
+                href="https://wa.me/39055215465"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hidden lg:flex items-center gap-2 px-4 py-2 transition-all duration-200 hover:opacity-90"
